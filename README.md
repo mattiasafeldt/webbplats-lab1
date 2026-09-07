@@ -1,12 +1,12 @@
 # Webbplats Laboration 1
 En webbplats skapad som en del av laboration.
 Innehåller lite kort information om mig och mina intressen.
-## Tekniker
+## 📌Tekniker
 - HTML - Webbplatsens innehåll och struktur.
-## Publicerade versioner
+## 📌Publicerade versioner
 - [GitHub Pages](https://mattiasafeldt.github.io/webbplats-lab1/)
 - [Netflify](https://webbplats-lab1.netlify.app/)
-## Frågor om Git
+## 📌Frågor om Git
 ### Vad är skillnaden mellan git add och git commit?
 - git add - Lägger till ändrade filer i Staging Area.
 - git commit - Skapar en ny version i ditt lokala reo.
